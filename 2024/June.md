@@ -15,3 +15,9 @@ DFS
 暴力
 [瑞士轮 洛谷-黄](https://www.luogu.com.cn/problem/P1309)
 归并排序
+
+# 6-5
+手写了一遍归并排序
+[逆序对 洛谷-黄](https://www.luogu.com.cn/problem/P1908)
+补了一题
+[C. Turtle and an Incomplete Sequence](https://codeforces.com/contest/1981/problem/C)
