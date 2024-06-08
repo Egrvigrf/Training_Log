@@ -21,3 +21,8 @@ DFS
 [逆序对 洛谷-黄](https://www.luogu.com.cn/problem/P1908)
 补了一题
 [C. Turtle and an Incomplete Sequence](https://codeforces.com/contest/1981/problem/C)
+
+# 6-6
+| **Name**                                                   | **solved** | **A** | **B** | **C** | **D** | **E** | **G** | **Rank** | **Rating**        |
+| ---------------------------------------------------------- | :--------: | ----- | ----- | ----- | ----- | ----- | ----- | -------- | ----------------- |
+| [cf round 951(Div.2)](https://codeforces.com/contest/1980) |     3      | Ο     | O     |  O    |    !   |  !   |  !    | 7034     | 1244 &rarr;  1235 |
